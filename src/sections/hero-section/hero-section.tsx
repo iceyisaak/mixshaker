@@ -1,3 +1,7 @@
 export const HeroSection = () => {
-  return <div>HeroSection</div>;
+  return (
+    <section>
+      <h1>Get your new Cocktail Recipe</h1>
+    </section>
+  );
 };
