@@ -1,3 +1,8 @@
 export const SearchSection = () => {
-  return <article>search-section</article>;
+  return (
+    <article>
+      <input type="text" />
+      <button>Search</button>
+    </article>
+  );
 };
