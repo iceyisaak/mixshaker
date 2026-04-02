@@ -5,7 +5,7 @@ export const Navbar = () => {
 
       <div>
         <button>Barbot</button>
-        <button>My Like Recipes</button>
+        <button>My Favourite Recipes</button>
       </div>
     </nav>
   );
