@@ -4,10 +4,10 @@ import { RecommendationSection } from "../../sections/recommendation-section";
 
 export const Home = () => {
   return (
-    <header>
+    <div>
       <HeroSection />
       <RecommendationSection />
       <BarbotSection />
-    </header>
+    </div>
   );
 };
